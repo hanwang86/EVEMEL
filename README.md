@@ -4,6 +4,7 @@ This repository contains the code for **Learning to Better Exploit Visual Eviden
 <p align="center">
   <img src="figures/overview.png" alt="Overview of EVEMEL" width="900"/>
 </p>
+
 ## Repository Structure
 
 ```text
