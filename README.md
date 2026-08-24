@@ -1,4 +1,7 @@
 # Learning to Better Exploit Visual Evidence for Multimodal Entity Linking
+
+Learning to Better Exploit Visual Evidence for Multimodal Entity Linking (EMNLP2026)
+
 ## Overview
 This repository contains the code for **Learning to Better Exploit Visual Evidence for Multimodal Entity Linking**. The proposed model, **EVEMEL**, learns to better exploit visual evidence through an adaptive mention augmentation stage (**AMA**) and a hierarchical visual MoE based cross-modal matching stage (**HVMCM**) with **Bidirectional Gated Intra-modal Matching (BiGIM)** and hard negative training.
 <p align="center">
